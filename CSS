@@ -13,3 +13,11 @@ h2 {
   color: #2F5A78;
   font-size: 20px;
 }
+
+body {
+  font-family: Arial;
+}
+#position {
+  font-size: 18px;
+  font-weight: bold;
+}
