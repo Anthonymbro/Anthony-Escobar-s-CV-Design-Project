@@ -51,8 +51,15 @@ h2 {
   border-bottom: 1px solid #2F5A78;
 } 
 
-
-
+header {
+  text-align: center;
+  background-color: #eeeeee;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+footer {
+  background-color: #eeeeee;
+}
 
 
 
