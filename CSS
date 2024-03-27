@@ -105,3 +105,8 @@ textarea {
     padding:5px;
     margin-bottom: 5px;
 }
+
+label {
+    font-weigh: bold;
+    color: #2F5A78;
+}
