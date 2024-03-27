@@ -91,4 +91,11 @@ th {
   color: #FFFFFF;
 }
 
+input[type="text"],
+input[type="email"] {
+    border: 1px solid #2F5A78;
+    width: 150px;
+    padding: 5px;
+    marin-botom: 5px;
+}
 
