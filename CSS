@@ -12,6 +12,10 @@ h1 {
   line-height: 20px;
 }
 
+.summary img {
+    float: right;
+}
+
 h2 {
   color: #2F5A78;
   font-size: 20px;
