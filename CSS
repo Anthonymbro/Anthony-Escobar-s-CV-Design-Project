@@ -9,6 +9,7 @@ h1 {
 }
 .summary {
   font-size: 16px;
+  line-height: 20px;
 }
 
 h2 {
@@ -23,11 +24,6 @@ body {
 #position {
   font-size: 18px;
   font-weight: bold;
-}
-
-.summary {
-  font-size: 16px;
-  line-height: 20px;
 }
 
 }
