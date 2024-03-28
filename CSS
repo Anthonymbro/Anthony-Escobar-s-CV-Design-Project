@@ -110,3 +110,17 @@ label {
     font-weigh: bold;
     color: #2F5A78;
 }
+
+input[ type="submit"] {
+    background-color: #2F5A78;
+    border: none;
+    border-radius: 7px;
+    padding: 7px 15px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 7px;
+}
+
+
+
+
