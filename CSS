@@ -7,6 +7,9 @@ h1 {
 #position {
   font-size: 18px;
 }
+
+/*summary*/
+
 .summary {
   font-size: 16px;
   line-height: 20px;
@@ -16,8 +19,6 @@ h1 {
   float: right;
   transition: transform 1s ease; 
 }
-
-/*summary*/
 
 .summary img:hover {
   transform: scale(1.3);
