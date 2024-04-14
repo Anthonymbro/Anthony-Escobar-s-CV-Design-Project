@@ -68,7 +68,11 @@ header {
   top: 0;
   left 0;
   width: 100%;
+  animation-name: colorchange;
+  animation-duration: 10s;
 }
+
+
 
 footer { 
   background-color: #eeeeee;
