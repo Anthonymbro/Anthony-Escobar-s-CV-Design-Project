@@ -19,10 +19,6 @@ h1 {
 
 /*summary*/
 
-.summary img {
-  float: right;
-  transition: transform 1s ease; 
-}
 .summary img:hover {
   transform: scale(1.3);
 } 
