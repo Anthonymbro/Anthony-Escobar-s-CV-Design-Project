@@ -72,6 +72,14 @@ header {
   animation-duration: 10s;
 }
 
+@keyframes colorchange {
+    0% {background-color: #eeeeee;}
+    25% {background-color:lightskyblue;}
+    50% {background-color: purple;}
+    75% {background-color: red;}
+    100% {background-color: #eeeeee;}
+}
+
 
 
 footer { 
