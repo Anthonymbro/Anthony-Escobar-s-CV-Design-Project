@@ -1,4 +1,4 @@
-h1 {           
+h1 {
     font-size: 28px;
     font-size: 28px;
     text-transform: uppercase
@@ -13,7 +13,8 @@ h1 {
 }
 
 .summary img {
-    float: right;
+  float: right;
+  transition: transform 1s ease; 
 }
 
 /*summary*/
