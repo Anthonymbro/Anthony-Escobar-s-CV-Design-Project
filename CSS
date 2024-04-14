@@ -69,8 +69,9 @@ header {
   left 0;
   width: 100%;
   animation-name: colorchange;
-  animation-duration: 10s;
+  animation-duration: 5s;
   animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
 }
 
 @keyframes colorchange {
